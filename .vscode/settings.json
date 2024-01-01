@@ -3,7 +3,8 @@
         "clsx",
         "heroicons",
         "Lusitana",
-        "sidenav"
+        "sidenav",
+        "tailwindcss"
     ],
     "files.autoSave": "onFocusChange"
 }
